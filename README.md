@@ -1,5 +1,5 @@
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello everyone. &#128578; Below you will find direct links to my projects.</br></br>
+<h1>Hello everyone. &#128578; Below you will find direct links to my projects.</br></br>&#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; &#9196; </h1></br></br></br>
 
 <h3>My official website:</h3> </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jacks-style.github.io/jacks-style/">Jack's Style</a></br></br>

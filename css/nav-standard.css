@@ -1,0 +1,35 @@
+.nav-standard {
+  margin: 0 0 0.3em;
+  padding-left: 0.8em;
+  padding-top: 1.1em;
+}
+
+.nav-standard li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.nav-standard a {
+  color: rgb(190, 190, 190);
+  font-size: 1.6rem;
+  letter-spacing: 0.1em;
+  margin-right: 2em;
+  text-decoration: none;
+}
+
+.nav-standard a:hover {
+  color: rgb(255, 255, 255);
+}
+
+@media all and (max-width: 768px) {
+  nav a {
+    font-size: 1.4rem;
+    margin-right: 1.6em;
+  }
+}
+
+@media all and (max-width: 576px) {
+  .nav-standard {
+    display: none;
+  }
+}

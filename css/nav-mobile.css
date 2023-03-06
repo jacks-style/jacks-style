@@ -75,8 +75,4 @@
   .nav-mobile__btn--open {
     display: block;
   }
-
-  .nav-mobile--opened {
-    display: block;
-  }
 }

@@ -1,3 +1,3 @@
 My official website: </br>
-  jacks-style.github.io/jacks-style/
+&nbsp;jacks-style.github.io/jacks-style/
 

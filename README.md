@@ -1,5 +1,6 @@
 </br>
-<h3>Hello everyone. &#128578; Below you will find direct links to my projects.</br>
+<h2>Hello everyone.  &#128578;</h2> 
+<h3>Below you will find direct links to my projects.</br>
 It's just a hobby for now, but I hope it goes forward.</h3>
 <h1>&#9749; &#9749; &#9749;</h1></br></br></br>
 

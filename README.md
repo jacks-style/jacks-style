@@ -1,3 +1,5 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Below you will find direct links to my projects.</br></br>
+
 <h3>My official website:</h3> </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://jacks-style.github.io/jacks-style/">Jack's Style</a></br></br>
 
